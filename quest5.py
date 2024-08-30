@@ -1,0 +1,3 @@
+R = Apertaria qualquer interruptor e usaria a 1° ida para verificar a lampada, se tivesse acertado de primeira 1° lampada Ok, apertaria outro interruptor e utilizaria a 2° ida para verificar se ligou, se ligou as 3 lampadas ja estão OK. sE NÃO ligou eu sei que as 2 ultimas lampadas são os interruptores contrarios, e de qualquer jeito eu ja sei a qual cada um se refere. 
+
+Se nao ligou a 1° lampada de primeira, eu ja sei que esse interruptor se refere a uma das duas que eu nao visitei a sala. Faço o mesmo para o outro interruptor, ligando eu ja irei saber a quais se referem, não ligando eu inverto os interruptores.
